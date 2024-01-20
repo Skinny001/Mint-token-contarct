@@ -6,7 +6,8 @@ A basic ERC-20 token contract named NameKeeperToken,This project will write a sm
 
 
 # ERC-20 Details:
-Symbol: NKT
+
+ Symbol: NKT
 Name: NameKeeperToken
 Decimals: 18
 
